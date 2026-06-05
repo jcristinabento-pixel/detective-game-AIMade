@@ -1,2 +1,4 @@
-# detective-game-AIMade
-Made With AI
+# detective-game
+this terminal game was made by AI(Google Copilot)
+
+thanks👍
